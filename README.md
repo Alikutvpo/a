@@ -28,3 +28,4 @@ AGPL-3.0-or-later (see src/COPYING). This repo belongs to the group
 * anonymous for PS4 firmware kernel dumps
 * Check the appropriate files for any **extra** contributors. Unless otherwise
   stated, everything here can also be credited to us.
+![lmage alt]([image_url](https://github.com/Alikutvpo/a/blob/main/roronoa-zoro-one-3840x2160-18633.jpg?raw=true))
